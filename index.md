@@ -10,4 +10,12 @@ This manifesto is a collaborative effort to create open, positive, party neutral
 
 Read the [contributor guide](contributing.html) for more details on how to get started.
 
-**Start here!**
+**Start here!** The following sections are just to get things started...
+
+# Environment
+
+# Development
+
+# Business
+
+# Health
