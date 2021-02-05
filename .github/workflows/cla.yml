@@ -28,7 +28,7 @@ jobs:
           remote-organization-name: 'OpenEastleigh'
           remote-repository-name: 'cla-signatures'
           create-file-commit-message: 'Creating file for storing CLA Signatures'
-          signed-commit-message: '$contributorName has signed the CLA in #$pullRequestNo'
+          signed-commit-message: '$contributorName has signed the CLA in OpenEastleigh/test-manifesto#$pullRequestNo'
           custom-notsigned-prcomment: 'Thank you for your proposal. Please read and sign the Eastleigh Manifesto [Contributor License Agreement](https://manifesto.openeastleigh.uk/cla.html)'
           #custom-pr-sign-comment: 'The signature to be committed in order to sign the CLA'
           #custom-allsigned-prcomment: 'pull request comment when all contributors has signed, defaults to **CLA Assistant Lite bot** All Contributors have signed the CLA.'
